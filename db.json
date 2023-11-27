@@ -43,6 +43,17 @@
       "cost": 0,
       "services": [],
       "id": 4
+    },
+    {
+      "name": "lançamento foguete",
+      "budget": "200000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
     }
   ],
   "categories": [
