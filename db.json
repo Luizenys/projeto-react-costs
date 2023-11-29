@@ -10,6 +10,17 @@
       "cost": 0,
       "services": [],
       "id": 2
+    },
+    {
+      "name": "bugatti",
+      "budget": "50000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
     }
   ],
   "categories": [
