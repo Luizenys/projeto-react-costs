@@ -54,6 +54,13 @@
       "cost": 0,
       "services": [],
       "id": 5
+    },
+    {
+      "budget": "222",
+      "name": "teste sem categoria",
+      "cost": 0,
+      "services": [],
+      "id": 6
     }
   ],
   "categories": [
