@@ -18,8 +18,15 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 100,
+      "services": [
+        {
+          "name": "Luiza",
+          "cost": "100",
+          "description": "oie",
+          "id": "07e2db65-d4e2-4bb7-9394-3e4608553291"
+        }
+      ],
       "id": 3
     }
   ],
