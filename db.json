@@ -13,7 +13,7 @@
     },
     {
       "name": "bugatti",
-      "budget": "50000",
+      "budget": "30000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
