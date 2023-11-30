@@ -15,8 +15,8 @@
       "name": "bugatti",
       "budget": "50000",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": [],
