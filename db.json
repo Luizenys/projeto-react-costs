@@ -1,51 +1,38 @@
 {
   "projects": [
     {
-      "name": "wwe",
-      "budget": "1232",
+      "name": "Fórum strapi",
+      "budget": "12000",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "3",
+        "name": "Design"
       },
-      "cost": 4,
+      "cost": 3000,
       "services": [
         {
-          "name": "Postgres-local-docker",
-          "cost": "4",
-          "description": "aaaaaaa",
-          "id": "48e9221d-127c-42c4-99dd-bb63aaffec52"
+          "name": "Comentários",
+          "cost": "1000",
+          "description": "Adicionar comentários",
+          "id": "dd61b9f2-7549-4ef8-9fbb-d06cb9dcdced"
+        },
+        {
+          "name": "Login",
+          "cost": "2000",
+          "description": "Fazer autenticação do usuário",
+          "id": "ddb0db7c-58ab-4d25-bb76-3cfe429472e8"
         }
       ],
       "id": 2
     },
     {
-      "name": "bugatti",
+      "name": "Spa LR",
       "budget": "30000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 23252,
-      "services": [
-        {
-          "name": "Postgres-railway",
-          "cost": "21",
-          "description": "oie",
-          "id": "2387b2c3-91b8-469e-b232-ac6ed43fdb49"
-        },
-        {
-          "name": "aaaaaaaaaa",
-          "cost": "333",
-          "description": "oie",
-          "id": "e454c944-2fe0-4d65-ba9f-9a413d0a2321"
-        },
-        {
-          "name": "bugattia",
-          "cost": "22222",
-          "description": "oie",
-          "id": "d67eeb22-fbaa-4b3d-93c1-bc05f234e048"
-        }
-      ],
+      "cost": 0,
+      "services": [],
       "id": 3
     }
   ],
