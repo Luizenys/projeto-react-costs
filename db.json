@@ -7,8 +7,15 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 4,
+      "services": [
+        {
+          "name": "Postgres-local-docker",
+          "cost": "4",
+          "description": "aaaaaaa",
+          "id": "48e9221d-127c-42c4-99dd-bb63aaffec52"
+        }
+      ],
       "id": 2
     },
     {
@@ -18,13 +25,25 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 100,
+      "cost": 23252,
       "services": [
         {
-          "name": "Luiza",
-          "cost": "100",
+          "name": "Postgres-railway",
+          "cost": "21",
           "description": "oie",
-          "id": "07e2db65-d4e2-4bb7-9394-3e4608553291"
+          "id": "2387b2c3-91b8-469e-b232-ac6ed43fdb49"
+        },
+        {
+          "name": "aaaaaaaaaa",
+          "cost": "333",
+          "description": "oie",
+          "id": "e454c944-2fe0-4d65-ba9f-9a413d0a2321"
+        },
+        {
+          "name": "bugattia",
+          "cost": "22222",
+          "description": "oie",
+          "id": "d67eeb22-fbaa-4b3d-93c1-bc05f234e048"
         }
       ],
       "id": 3
